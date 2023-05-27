@@ -3,6 +3,8 @@
 
 -Used razor pages for its view.
 
+-Used toastr to have some user-friendly notifications.
+
 -Used EntityFrameWork, and used migration for the database creation.
 
 -For the test, deployed a database in an azure server, and published the project through an azurewebsite domain.
